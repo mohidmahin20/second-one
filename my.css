@@ -1,0 +1,48 @@
+.half-width{
+    width:50%;
+    padding-left: 20px;
+}
+.half-width img{
+    width:50%;
+    
+}
+.service{
+    text-align: center;
+   
+}
+.last{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin:40px;
+    box-shadow:10px 10px 10px gray;
+    
+    border-image: linear-gradient(blue,green);
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+.first{
+background-image: linear-gradient(rgb(94, 92, 92),white);
+}
+
+.welcome{
+    color:goldenrod;
+    font-size: 50px;
+}
+section{
+    display:flex;
+    padding-bottom: 10px;
+}
+p{
+    font-size: large;
+}
+.button{
+    background-image: linear-gradient(blue,cyan);
+    padding: 10px;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}
+.img{
+    width:15%;
+    padding:10px;
+}
